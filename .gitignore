@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/r
 # Edit at https://www.gitignore.io/?templates=r
 
+### Mac ###
+.DS_Store
+
 ### R ###
 # History files
 .Rhistory
